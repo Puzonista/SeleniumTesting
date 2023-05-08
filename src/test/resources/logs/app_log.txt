@@ -1,0 +1,7 @@
+INFO    2023-05-01 19:29:40,512 [main] testcases.TestProperties  -OR Properties Loaded
+INFO    2023-05-01 19:29:40,513 [main] testcases.TestProperties  -Config Properties Loaded
+INFO    2023-05-01 19:29:42,144 [main] testcases.TestProperties  -Chrome browser launched!!!
+INFO    2023-05-01 19:29:43,805 [main] testcases.TestProperties  -Navigated to : http://gmail.com
+INFO    2023-05-01 19:29:44,036 [main] testcases.TestProperties  -typing in an Element : username_ID entered the value as : trainer@sdfsg.com
+INFO    2023-05-01 19:29:44,142 [main] testcases.TestProperties  -clicking on an Element : nextBtn_XPATH
+INFO    2023-05-01 19:29:44,746 [main] testcases.TestProperties  -test execution completed !!
